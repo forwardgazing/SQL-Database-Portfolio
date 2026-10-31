@@ -1,0 +1,13 @@
+# Файлы IDE (DataGrip, SSMS, VS Code)
+.vscode/
+.idea/
+.vs/
+
+# Системный мусор (Mac/Windows)
+.DS_Store
+Thumbs.db
+
+# Бэкапы баз данных (чтобы не закинуть тяжелые файлы БД)
+*.bak
+*.mdf
+*.ldf
